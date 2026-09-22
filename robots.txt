@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://h60x4e.cn/sitemap.xml
